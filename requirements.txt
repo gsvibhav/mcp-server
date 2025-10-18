@@ -1,6 +1,6 @@
 fastapi
 uvicorn
-python-dotenv
-msal
-pydantic
 requests
+python-dotenv
+pydantic>=2
+msal
